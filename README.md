@@ -30,7 +30,7 @@ Remerciements: Laurane Perrot
 
 ## Contact
 
-[Mini-site](https://alsace.piloteparis.com)
+[Visitez le mini-site / Visit the mini-site](https://alsace.piloteparis.com)
 
 [Instagram](https://www.instagram.com/pilote_paris/)
 
