@@ -24,7 +24,7 @@ Les colombages, de par leur richesse graphique et sémantique, nous ont servi d�
 
 Nous avons souhaité prolonger ce travail au-delà de la commande initiale en développant un ensemble complet de caractères dessinés à partir de ces lettrines. L’Alsace est éditée en deux graisses (Regular et Bold). À l’instar des colombages, le dessin de l’Alsace est une combinaison exclusivement faite de verticales, d’obliques et d’horizontales cherchant toujours le point d’équilibre entre une lettre lisible et une forme ornementale.
 
-Crédits: Pilote Paris, 2021 / Remerciements: Laurane Perrot
+Crédits : Pilote Paris, 2021 / Remerciements : Laurane Perrot
 
 ## Contact
 
