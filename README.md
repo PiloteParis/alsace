@@ -14,8 +14,7 @@ The Alsatian timber frames, by their graphic and semantics richness, were the in
 
 We wanted to extend this work beyond the initial commission by developing a complete set of characters drawn from these drop initials. The Alsace is edited in two weight (Regular and Bold). Like the half-timbered facades, the design of Alsace is a combination of exclusively verticals, obliques and horizontals lines, always seeking the point of balance between a readable letter and an ornamental form.
 
-Credits: Pilote Paris, 2021
-Acknowledgement: Laurane Perrot
+Credits: Pilote Paris, 2021 / Acknowledgement: Laurane Perrot
 
 ### Français
 
@@ -25,8 +24,7 @@ Les colombages, de par leur richesse graphique et sémantique, nous ont servi d�
 
 Nous avons souhaité prolonger ce travail au-delà de la commande initiale en développant un ensemble complet de caractères dessinés à partir de ces lettrines. L’Alsace est éditée en deux graisses (Regular et Bold). À l’instar des colombages, le dessin de l’Alsace est une combinaison exclusivement faite de verticales, d’obliques et d’horizontales cherchant toujours le point d’équilibre entre une lettre lisible et une forme ornementale.
 
-Crédits: Pilote Paris, 2021
-Remerciements: Laurane Perrot
+Crédits: Pilote Paris, 2021 / Remerciements: Laurane Perrot
 
 ## Contact
 
